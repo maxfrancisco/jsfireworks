@@ -21,6 +21,7 @@
     "url": "https://github.com/chrisjm/jsfireworks/issues"
   },
   "homepage": "https://github.com/chrisjm/jsfireworks#readme",
+  "prettier": {},
   "dependencies": {
     "snowpack": "^2.18.5"
   }
